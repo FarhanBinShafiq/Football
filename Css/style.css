@@ -152,13 +152,13 @@ width:200px;
 }
 
 
-/*
+
 
 .player:hover{
     transform: scale(1.1);
     box-shadow: 10px 10px red;
  
-}*/
+}
 
 .players img{
    
@@ -207,8 +207,8 @@ footer{
 
 .footer-logo img{
     padding: 50px;
-    margin-left: 300px;
-    height: 127px;
+    margin-left: 400px;
+    height: 227px;
     width: 450px;
     box-sizing:border-box;
       transition: 2s;
